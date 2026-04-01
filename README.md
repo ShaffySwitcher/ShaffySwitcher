@@ -1,7 +1,5 @@
-### Hi, I'm Shaffy!
+## Hello, I'm Shaffy!
 
-I mainly doing low-level code, but I basically touch anything I can program on!
+Welcome to my profile, I like low-level stuff, feel free to check out my projects!
 
-[![Shaffy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaffySwitcher&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaffySwitcher&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![rain world funny](https://raw.githubusercontent.com/ShaffySwitcher/ShaffySwitcher/refs/heads/main/The_Friend_passage_scene.png)
